@@ -3,8 +3,8 @@
 
 Kock-Schoppenhauer, A.K., Wagenzink, S., Stüdemann, M.K., Figge, L., Flügge, F., Simon, F., Maushagen,R., Habermann, J.K., Duhm-Harbeck, P.
 
-IT Center for Clinical Research-Lübeck ([ITCR-L](https://itcr.uni-luebeck.de)), University of Lübeck, Germany 
-Interdisciplinary Center for Biobanking-Lübeck ([ICB-L](ICB-L)), University of Lübeck, Germany 
+IT Center for Clinical Research-Lübeck ([ITCR-L](https://itcr.uni-luebeck.de)), University of Lübeck, Germany <br>
+Interdisciplinary Center for Biobanking-Lübeck ([ICB-L](ICB-L)), University of Lübeck, Germany <br>
 Section for Translational Surgical Oncology and Biobanking, Department of Surgery, University of Lübeck & University Clinical Center Schleswig-Holstein, Campus Lübeck, Germany Ratzebergerallee 160, 23562 Lübeck
 
 ### Background
